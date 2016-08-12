@@ -5,7 +5,7 @@ To install Qplot just "make"
 
 To execute Qplot
 
- ./Qplot <file to view>
+ ./Qplot example.root
 
 
 Please send any feedback or comments to Hussein Al Ghoul: alghoul@ku.edu
