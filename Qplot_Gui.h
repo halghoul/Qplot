@@ -1,5 +1,5 @@
-#ifndef _PWA_FIT_VIEW_GUI
-#define _PWA_FIT_VIEW_GUI
+#ifndef _QPLOT_GUI
+#define _QPLOT_GUI
 
 #include <TApplication.h>
 #include <TGClient.h>
